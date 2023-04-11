@@ -22,7 +22,7 @@ public class Ejer_5 {
 
         System.out.println("Ingrese el numero entero a procesar");
         double num = leer.nextDouble();
-        System.out.println("El doble de su numero es: " + (num * 2));
+        System.out.println("El doble de su numero es : " + (num * 2));
         System.out.println("El triple de su numero es: "+ (num *3));
         System.out.println("La raiz cuadrada de " + num + " es:  " + Math.sqrt(num) );
     }
